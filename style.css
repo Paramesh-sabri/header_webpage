@@ -1,0 +1,19 @@
+.col-2{
+    background-color:rgb(105, 104, 104);
+    border-radius: 2px;
+    margin-right: 20px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
